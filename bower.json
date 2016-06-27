@@ -1,0 +1,33 @@
+{
+  "name": "Lightning",
+  "homepage": "https://github.com/wasimj/lightning",
+  "authors": "Wasim Juned",
+  "description": "Lightning is a simple responsive HTML template, built on top of Bootstrap 4 and based on the Land.io Sketch design by Peter Finlan and Taty Grassini. For more great resources please visit http://tympanus.net/codrops/",
+  "main": [
+    "less/landio.scss",
+    "js/landio.min.js"
+  ],
+  "license": "Lightning Custom License",
+  "moduleType": "globals",
+  "keywords": [
+    "Land.io",
+    "landio",
+    "ui-kit",
+    "sketch",
+    "css",
+    "js",
+    "scss",
+    "mobile-first",
+    "responsive",
+    "front-end"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "README.md",
+    "bower.json"
+  ]
+}
