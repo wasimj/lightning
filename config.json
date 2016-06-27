@@ -1,7 +1,7 @@
 {
     "name":"Sample Lighting configuration",
     "image":"landing_page_graphic.512x512.png",
-    "description":"See config-sample.json, edit and rename to config.json",
+    "description":"Edit config.json",
     "card_title":"Card title here",
     "card_subtitle":"Car subtitle here",
     "card_description": "Card description here",
