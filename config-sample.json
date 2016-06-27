@@ -1,0 +1,10 @@
+{
+    "name":"Sample Lighting configuration",
+    "image":"landing_page_graphic.512x512.png",
+    "description":"See config-sample.json, edit and rename to config.json",
+    "card_title":"Card title here",
+    "card_subtitle":"Car subtitle here",
+    "card_description": "Card description here",
+    "signup_email": "lighting@abraxor.com",
+    "signup_note": "Lightning is built by Abraxor.com. See <a href=\"http://labs.abraxor.com/lightning\">Lightning</a> for more details."
+}
