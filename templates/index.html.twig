@@ -55,7 +55,9 @@
                 <span class="icon-thunderbolt display-1"></span>
                 <h4 class="card-title">{{card_title}}</h4>
                 <h6 class="card-subtitle text-muted">{{card_subtitle}}</h6>
+                {% autoescape false %}
                 <p class="card-text">{{card_description}}</p>
+                {% endautoescape %}
               </div>
             </div>
           </div>
@@ -70,7 +72,9 @@
     <section class="section-signup bg-faded">
       <div class="container">
         <h3 class="text-xs-center m-b-3">{{signup_email}}</h3>
+        {% autoescape false %}
         <p class="lead wp wp-2">{{signup_note}}</p>
+        {% endautoescape %}
       </div>
     </section>
 
